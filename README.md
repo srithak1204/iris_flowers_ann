@@ -1,5 +1,5 @@
 # iris_ann.ipynb
-This project implements a Artificial Neural Network (ANN) for classifying images of animals. The goal is to accurately classify flower images. 
+This project implements a Artificial Neural Network (ANN) for classifying images of animals. The goal is to accurately classify flower. 
 ## Data set
 you can download the dataset for this project from the [link](https://www.kaggle.com/datasets/arshid/iris-flower-dataset/download?datasetVersionNumber=1)
 ## Features
@@ -14,9 +14,6 @@ The network accommodates input features related to iris flowers, such as sepal l
 
 -**Customizable Input**:
 The architecture allows for easy adaptation to different datasets or variations in feature representation.
-
--**Scalability**:
-The project is designed to handle datasets of varying sizes, making it scalable for both small and large datasets of iris flower images.
 
 -**Activation Functions**:
 The choice of appropriate activation functions, such as ReLU or sigmoid, to introduce non-linearity into the network and capture complex relationships in the data.
